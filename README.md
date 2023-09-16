@@ -1,11 +1,11 @@
 # my-static-website
 
 
-Provide a clear, concise title for your project.
+This was my first respiratory. I created it after I made my Github account.
 
 ## Description
 
-A short and to-the-point description of your project, including its importance and functionality.
+This respiratory was just to deploy any static website, there was nothing done in the website, mostly just deploying the static website.
 
 ## Table of Contents
 
