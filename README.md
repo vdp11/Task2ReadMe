@@ -23,7 +23,7 @@ Explain how to use your project once it's installed. Include screenshots or exam
 
 ## Credits
 
-If multiple people contributed to the project, acknowledge and link to their profiles.
+https://github.com/vdp11
 
 ## GitHub Repository
 
