@@ -77,10 +77,10 @@ Click on the "Settings" tab (the cog icon).
 Scroll down to the "GitHub Pages" section.
 Under "Source," select "main" or "master branch" (whichever is the default branch for your repository).
 Click the "Save" button.
-Your personal webpage is now published using GitHub Pages and accessible at a URL like https://username.github.io/repoName (replace "username" with your GitHub username and "repoName" with your repository name).
+
 
 ## Usage
-Explain how to use your project once it's installed. Include screenshots or examples if necessary.
+Your personal webpage is now published using GitHub Pages and accessible at a URL like https://username.github.io/repoName (replace "username" with your GitHub username and "repoName" with your repository name).
 
 ![Static Website 2023-09-16 192112](https://github.com/vdp11/Task2ReadMe/assets/145059840/457938ff-06d1-4e2d-a837-9baf5b0844e2)
 
